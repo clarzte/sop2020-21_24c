@@ -1,0 +1,9 @@
+Instalacja systemu linux na maszynie wirtualnej
+
+1. Stworz nowa maszyne przydziel najlepiej 2048MB RAMu.
+2. Wloz obraz plyty do napedu.
+3. Wybierz jezyk angielski i lokalizacje Polska.
+4. Klawiatura american english.
+6. Zrob 2 partycje primary jedna glowna na pliki w systemie plikow ext4, a druga 2GB SWAP.
+7. Po instalacji wyjmij obraz z napedu.
+8. Zainstaluj program aptitude do wygodnej instalacji pakietow.
